@@ -397,4 +397,20 @@ footer.footer {
   margin-top: 50px;
   border-top: 4px solid var(--gold);
 }
+.back-home {
+  display: block;
+  width: fit-content;
+  margin: 40px auto;
+  padding: 12px 24px;
+  background-color: #800000; /* Maroon */
+  color: white;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.back-home:hover {
+  background-color: #a00000;
+}
 
